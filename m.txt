@@ -1,0 +1,6 @@
+void main(
+{
+int c,f,g;
+c = f+g ;
+
+}
